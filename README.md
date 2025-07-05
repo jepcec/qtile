@@ -1,0 +1,4 @@
+# Requisitos
+- Picom
+- Dmenu
+- ...
